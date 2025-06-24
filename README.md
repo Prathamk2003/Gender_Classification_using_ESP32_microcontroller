@@ -160,3 +160,7 @@ Prediction: Male
 BSD 3-Clause License
 
 Copyright (c) 2025, PrathamK
+
+## Output
+![Output Screenshot](https://github.com/user-attachments/assets/305babc7-a0eb-4b8a-ba13-b9357ca9a5a3)
+
