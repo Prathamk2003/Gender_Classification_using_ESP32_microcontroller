@@ -1,4 +1,3 @@
-
 # Gender Classification on ESP32 using TinyML
 
 This project demonstrates real-time gender classification using a neural network model deployed on an ESP32 microcontroller. Leveraging TinyML and TensorFlow Lite, the system performs on-device inference using demographic features like age, height, weight, etc., without relying on the cloud.
